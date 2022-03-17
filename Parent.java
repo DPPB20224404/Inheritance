@@ -1,5 +1,4 @@
 public class Parent{
-
   public int umur = 20;
   public String pekerjaan = "Dokter";
   

@@ -9,6 +9,6 @@ public class Child extends Parent{
   
   @Override
   public void jalan(){
-    System.out.println("Jalan maks 20 kilo ");
+    System.out.println("Jalan maks 20 kilo " + super.pekerjaan);
   }
 }
